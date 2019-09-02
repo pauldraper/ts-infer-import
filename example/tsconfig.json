@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "declaration": true,
+    "module": "es2015",
+    "moduleResolution": "node",
+    "paths": {
+      "*": ["../external/node_modules/*"]
+    },
+    "outDir": "../target/example",
+    "target": "es2016"
+  }
+}

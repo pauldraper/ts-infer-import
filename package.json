@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "typescript-3.1": "npm:typescript@~3.1.0",
+    "typescript-3.4": "npm:typescript@~3.4.0"
+  },
+  "private": true
+}
